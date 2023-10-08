@@ -5,3 +5,7 @@ This code was inspired by this [tutorial](https://www.datasimple.education/post/
 The data was downloaded from the [UCI ML data sets](https://archive.ics.uci.edu/dataset/267/banknote+authentication).
 
 The official citation for the data is (Lohweg,Volker. (2013). banknote authentication. UCI Machine Learning Repository. https://doi.org/10.24432/C55P57.)
+
+## TODO:
+<li> Add Power Transformation
+<li> Add feature importance

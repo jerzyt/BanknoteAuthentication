@@ -8,4 +8,4 @@ The official citation for the data is (Lohweg,Volker. (2013). banknote authentic
 
 ## TODO:
 <li> Add Power Transformation
-<li> Add feature importance
+<li> Add Feature Importance

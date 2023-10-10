@@ -9,3 +9,4 @@ The official citation for the data is (Lohweg,Volker. (2013). banknote authentic
 ## TODO:
 <li> Add Power Transformation
 <li> Add Feature Importance
+<li> Add Train/Test Learning Rate Curves
